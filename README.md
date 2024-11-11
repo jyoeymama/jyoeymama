@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me jyomama28@gmail.com
 - 😄 Pronouns: attack helicopter
-- ⚡ Fun fact: jo.... JO MAMA!1!
+- ⚡ Fun fact: i love 6b6t minecraft (shoutout to 15gg_, Love that guy, Go check him out!)
 
 <!---
 jyoeymama/jyoeymama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

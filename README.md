@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **i love video games like minecraft and half life 2**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!:</h3>
 <p align="left">
 </p>
 

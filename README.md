@@ -86,4 +86,5 @@
 ###
 
 ![literatley me](https://github.com/user-attachments/assets/1e8ddf8d-8703-48eb-ac59-2baae9fd42ec)
+![lolamoogus](https://github.com/user-attachments/assets/ca87efed-9ebf-4af3-913f-e57acf1a8aee)
 

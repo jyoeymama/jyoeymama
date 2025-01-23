@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jyomama28</h1>
 <h3 align="center">i am the sigma</h3>
 
-![hackinglol](https://github.com/user-attachments/assets/5ffeb198-e64b-4818-a402-64e8c7e2a215)
+![literatley me](https://github.com/user-attachments/assets/1e8ddf8d-8703-48eb-ac59-2baae9fd42ec)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoeymama" alt="jyoeymama" /></a> </p>
@@ -85,6 +85,6 @@
 
 ###
 
-![literatley me](https://github.com/user-attachments/assets/1e8ddf8d-8703-48eb-ac59-2baae9fd42ec)
+![hackinglol](https://github.com/user-attachments/assets/5ffeb198-e64b-4818-a402-64e8c7e2a215)
 ![lolamoogus](https://github.com/user-attachments/assets/ca87efed-9ebf-4af3-913f-e57acf1a8aee)
 

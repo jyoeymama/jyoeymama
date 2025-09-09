@@ -4,6 +4,10 @@
 ![literatley me](https://github.com/user-attachments/assets/1e8ddf8d-8703-48eb-ac59-2baae9fd42ec)
 
 
+https://github.com/user-attachments/assets/1251f5ad-6a3d-4721-8ab2-9bde3e3db788
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoeymama" alt="jyoeymama" /></a> </p>
 
 - 🔭 I’m currently working on **anything and everything**

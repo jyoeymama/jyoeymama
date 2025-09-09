@@ -4,7 +4,7 @@
 ![literatley me](https://github.com/user-attachments/assets/1e8ddf8d-8703-48eb-ac59-2baae9fd42ec)
 
 
-https://github.com/user-attachments/assets/1251f5ad-6a3d-4721-8ab2-9bde3e3db788
+
 
 
 

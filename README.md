@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **anything and everything**
 
-- 🌱 I’m currently learning **I’m currently learning HTML, CSS, As well as a bit of Javascript, Php, And some Python. I also know a tiny bit of Java. I Also Recenlty Learned Duckyscript.**
+- 🌱 I’m currently learning **I’m currently learning HTML, CSS, As well as a bit of Javascript, Php, And some Python. I also know Java, Some C++, Some TI-Basic and also Duckyscript.**
 
 - 👯 I’m looking to collaborate on **anything**
 

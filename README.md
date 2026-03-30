@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoeymama" alt="jyoeymama" /></a> </p>
 
-- 🔭 I’m currently working on **anything and everything**
+- 🔭 I’m currently working on **BunnyBSD**
 
-- 🌱 I’m currently learning **HTML, CSS, As well as a bit of Javascript, Php, And some Python. I also know Java, Some C++, Some TI-Basic and also Duckyscript.**
+- 🌱 I’m currently learning **C and x86 assembly**
 
 - 👯 I’m looking to collaborate on **anything**
 

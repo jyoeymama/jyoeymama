@@ -6,7 +6,9 @@
 
 **About me:**
 
-Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love programming and cybersecurity. I would consider myself a purple hat (a mix of offensive and defensive ethical hacking). I love programming random things and doing CTFs to furthur advance my skills as a ethical hacker and programmer. I am avalible anytime if needed. If you like any of my repositories or would like to support my work, consider dropping a star or a follow! All of my supporters are greatly appreciated! I have experience in many languages and tools across programming and ethical hacking as a whole. I have experience with all operating systems as well (although I mainly use Fedora Linux and FreeBSD). I have experience with many ethical hacking techniques and enjoy practicing my skills. I would love to one day secure the systems of thousands to create a safe and stable internet for all. I am also very strongley agianst any usage of AI and never use AI to program ANY of my repositories. Thank you for stopping by, I truley appreciate my supporters! -Jyomama28
+Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love programming and cybersecurity. I would consider myself a purple hat (a mix of offensive and defensive ethical hacking). I love programming random things and doing CTFs to furthur advance my skills as a ethical hacker and programmer. I am avalible anytime if needed. If you like any of my repositories or would like to support my work, consider dropping a star or a follow! All of my supporters are greatly appreciated! I have experience in many languages and tools across programming and ethical hacking as a whole. I have experience with all operating systems as well (although I mainly use Fedora Linux and FreeBSD). I have experience with many ethical hacking techniques and enjoy practicing my skills. I would love to one day secure the systems of thousands to create a safe and stable internet for all. I am also very strongley agianst any usage of AI and never use AI to program ANY of my repositories. Thank you for stopping by, I truley appreciate my supporters! 
+
+**-Jyomama28**
 
 
 

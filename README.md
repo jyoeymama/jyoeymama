@@ -29,8 +29,6 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 <h3 align="left">Connect with me at: jyomama28@gmail.com</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoeymama&show_icons=true&locale=en&layout=compact" alt="jyoeymama" /></p>
-
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh3Z29pZThidnRleW5paHFpbmlpejRsY2prN3Bpa2hpNTlwOWQzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif"  />
 

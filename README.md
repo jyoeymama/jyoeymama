@@ -14,9 +14,9 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 - I am currently working on **BunnyBSD**
 
-- I am currently learning **C and x86 assembly**
+- I am currently learning **C and x86 Assembly**
 
-- I am looking to collaborate on **anything**
+- I am looking to collaborate on **anything!**
 
 - All of my projects are available at [https://github.com/jyoeymama](https://github.com/jyoeymama)
 
@@ -24,9 +24,7 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 - You can reach me at **jyomama28@gmail.com**
 
-- Fun fact **I love video games like minecraft and half life 2**
-
-<h3 align="left">Connect with me at: jyomama28@gmail.com</h3>
+- Fun fact **I love video games like Minecraft and Half Life 2**
 
 
 

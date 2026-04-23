@@ -16,7 +16,7 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 - I am currently learning **C and x86 Assembly**
 
-- I am looking to collaborate on **anything!**
+- I am looking to collaborate on **BunnyBSD**
 
 - All of my projects are available at [https://github.com/jyoeymama](https://github.com/jyoeymama)
 

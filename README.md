@@ -33,3 +33,4 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 ![hackinglol](https://github.com/user-attachments/assets/5ffeb198-e64b-4818-a402-64e8c7e2a215)
 ![lolamoogus](https://github.com/user-attachments/assets/ca87efed-9ebf-4af3-913f-e57acf1a8aee)
+<img width="498" height="469" alt="image" src="https://github.com/user-attachments/assets/d698f5bf-2e94-40a9-b1eb-ba8eeb7cef80" />

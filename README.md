@@ -22,7 +22,7 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 - Please feel free to ask me about **anything!**
 
-- You can reach me at **jyomama28@gmail.com**
+- You can reach me at **jyoeymama@proton.me**
 
 - Fun fact **I love video games like Minecraft and Half Life 2**
 

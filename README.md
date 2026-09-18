@@ -24,7 +24,7 @@ Hello! I am jyomama28. I am an aspiring programmer and white hat hacker. I love 
 
 - You can reach me at **jyoeymama@proton.me**
 
-- Fun fact **my davoritr game of all time is Half Life 2**
+- Fun fact **my favorite game of all time is Half Life 2**
 
 - Fun fact 2 **i am the jyoeyest mama ever**
 
